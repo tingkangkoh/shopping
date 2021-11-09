@@ -126,3 +126,5 @@ function Shop(){
 }
 
 export default Shop
+
+  // "homepage":"http://tingkangkoh.github.io/Ecommerce",

@@ -21,8 +21,8 @@ function Header(props){
             <nav>
                 <ul>
                     <li className="logo"><h1 className="title">Electronic Mafia</h1></li>
-                    <li><Link to="/">Home</Link></li>
-                    <li><Link to="/shop">Shop</Link></li>
+                    {/* <li><Link to="/">Home</Link></li> */}
+                    {/* <li><Link to="/shop">Shop</Link></li> */}
                     {/* <li>
                         <Link to={{ pathname: `/cart`, state: {cart:props.currentcart } }}> 
                         <i className="fas fa-shopping-cart"></i></Link> 
